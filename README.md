@@ -32,4 +32,4 @@ A simple web-based application for maintaining a personal journal. Users can cre
     python app.py
 
 4. **Access the App: Open your web browser and navigate to http://127.0.0.1:8080 to access the application.**
-# Personal-Journal-App
+
